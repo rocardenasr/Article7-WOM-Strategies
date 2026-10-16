@@ -1,0 +1,16 @@
+{
+  "executions": 2400,
+  "new_alternative_runs": 2300,
+  "reference_reproductions": 100,
+  "reused_fixed_policy_runs": 600,
+  "independent_seeds_per_contrast": 100,
+  "bootstrap_replications": 5000,
+  "bootstrap_seed": 740004,
+  "primary_contrasts": 46,
+  "simultaneous_critical_value": 2.9675063913706228,
+  "nonconstant_primary_contrasts": 44,
+  "interval_method": "marginal percentile plus approximate simultaneous bootstrap max-|t| using observed paired MCSE",
+  "observed_monthly_series_groups": 12,
+  "analysis_sha256": "3ff5b7cc745173affeb79822fd61b8518b579a3f630ef925dede3aa1611772cb",
+  "scope": "all orders at baseline parameters; no empirical calibration, no parameter-robust optimality claim"
+}

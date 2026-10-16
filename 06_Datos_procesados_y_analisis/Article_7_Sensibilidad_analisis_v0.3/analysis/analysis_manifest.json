@@ -1,0 +1,10 @@
+{
+  "new_simulations": 16800,
+  "baseline_reused": 700,
+  "comparison_cases": 17500,
+  "bootstrap_replications": 5000,
+  "seed": 730003,
+  "unit": "seed block shared across policies and scenarios",
+  "intervals": "marginal percentile 95%; no simultaneous coverage or global sensitivity claim",
+  "accounting_evaluations": 52500
+}

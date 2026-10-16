@@ -1,0 +1,17 @@
+{
+  "design_sha256": "690d1684aec61da27e6c31eb03de9823f02948308e74b428eefa6bf6e6bacee4",
+  "runner_sha256": "8aa745b349b02968691731020ef4f284ee92a7a10446c8d6385271f54dae5948",
+  "baseline_manifest_sha256": "38d0ad3a07d1cf3bd741d920dd3a5e4fd5a5605220052815546a7639faaf5b59",
+  "core_hashes": {
+    "experiment.py": "7cb070cbd86f933d4c339de367f2a82ed562d0cf94f868de5ebdd222afa80049",
+    "model.py": "e12ba5f7aee01d63f23cce62751b383d77f2651eeb99aa5608955bf9cb3a4441"
+  },
+  "started_at": "2026-09-26T02:47:41.396941+00:00",
+  "workers": 4,
+  "planned_runs": 16800,
+  "completed_scenarios": 24,
+  "new_runs": 16800,
+  "comparison_cases": 17500,
+  "completed_at": "2026-09-26T02:55:01.621297+00:00",
+  "elapsed_seconds": 440.20497833200034
+}

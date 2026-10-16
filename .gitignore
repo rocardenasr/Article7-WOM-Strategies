@@ -1,0 +1,21 @@
+# Documentos y archivos multimedia
+*.docx
+*.mp4
+
+# PlatformIO / Arduino / C++
+.pio/
+build/
+
+# Node / Web
+node_modules/
+dist/
+
+# C# / Visual Studio
+bin/
+obj/
+.vs/
+
+# Python
+venv/
+.venv/
+__pycache__/

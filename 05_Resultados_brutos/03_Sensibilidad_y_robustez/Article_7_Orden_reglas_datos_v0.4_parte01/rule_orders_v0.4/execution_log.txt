@@ -1,0 +1,25 @@
+1/24: G_4576; 11.5s
+2/24: G_4567; 12.1s
+3/24: G_4657; 17.9s
+4/24: G_4675; 17.9s
+5/24: G_4765; 21.7s
+6/24: G_4756; 22.3s
+7/24: G_5647; 32.3s
+8/24: G_5674; 33.3s
+9/24: G_5467; 37.2s
+10/24: G_5476; 37.4s
+11/24: G_5746; 42.6s
+12/24: G_5764; 45.0s
+13/24: G_6457; 54.7s
+14/24: G_6475; 55.0s
+15/24: G_6547; 59.7s
+16/24: G_6574; 63.1s
+17/24: G_6745; 72.2s
+18/24: G_6754; 72.8s
+19/24: G_7456; 77.2s
+20/24: G_7465; 80.6s
+21/24: G_7564; 83.1s
+22/24: G_7546; 83.1s
+23/24: G_7645; 94.6s
+24/24: G_7654; 97.0s
+{"audited_periods": 144000, "baseline_manifest_sha256": "38d0ad3a07d1cf3bd741d920dd3a5e4fd5a5605220052815546a7639faaf5b59", "completed_at": "2026-09-26T09:48:46.020340+00:00", "design_sha256": "333e57b0af2767be61a8d5bbf163cdd8ad6fc069d026fbde5eb0505bb527fd5d", "elapsed_seconds": 97.25124459799918, "executions": 2400, "new_alternative_runs": 2300, "reference_decisions_matched": 6000, "reference_reproductions": 100, "reference_summary_fields_matched": 22, "started_at": "2026-09-26T09:47:08.768995+00:00", "workers": 4}

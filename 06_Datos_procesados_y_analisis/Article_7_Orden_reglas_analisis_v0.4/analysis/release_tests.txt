@@ -1,0 +1,44 @@
+test_V01_no_customers (test_model.Verification.test_V01_no_customers) ... ok
+test_V02_zero_reward (test_model.Verification.test_V02_zero_reward) ... ok
+test_V03_no_attendees_fixed_cost_remains (test_model.Verification.test_V03_no_attendees_fixed_cost_remains) ... ok
+test_V04_disconnected_communities (test_model.Verification.test_V04_disconnected_communities) ... ok
+test_V05_budget_reservations (test_model.Verification.test_V05_budget_reservations) ... ok
+test_V06_time_and_future_reservation (test_model.Verification.test_V06_time_and_future_reservation) ... ok
+test_V07_capacity_and_no_unserved_reward (test_model.Verification.test_V07_capacity_and_no_unserved_reward) ... ok
+test_V08_referral_ancestry_and_no_repeat_pair (test_model.Verification.test_V08_referral_ancestry_and_no_repeat_pair) ... ok
+test_V09_event_link_ancestry_and_next_month (test_model.Verification.test_V09_event_link_ancestry_and_next_month) ... ok
+test_V10_adaptive_priority_and_reconstruction (test_model.Verification.test_V10_adaptive_priority_and_reconstruction) ... ok
+test_V11_ablated_campaigns_and_cost_overlay (test_model.Verification.test_V11_ablated_campaigns_and_cost_overlay) ... ok
+test_V12_equivalent_policies (test_model.Verification.test_V12_equivalent_policies) ... ok
+test_V13_independent_accounting (test_model.Verification.test_V13_independent_accounting) ... ok
+test_V14_reproducibility_and_order (test_model.Verification.test_V14_reproducibility_and_order) ... ok
+test_V15_manual_multiple_exposures_one_sale_one_reward (test_model.Verification.test_V15_manual_multiple_exposures_one_sale_one_reward) ... ok
+test_V16_energy_and_new_customer_delay (test_model.Verification.test_V16_energy_and_new_customer_delay) ... ok
+test_V17_mixed_and_sequence_calendar (test_model.Verification.test_V17_mixed_and_sequence_calendar) ... ok
+test_V18_na_windows (test_model.Verification.test_V18_na_windows) ... ok
+test_V19_no_terminal_commitments (test_model.Verification.test_V19_no_terminal_commitments) ... ok
+test_V20_individual_monthly_aggregation (test_model.Verification.test_V20_individual_monthly_aggregation) ... ok
+test_extra_initial_network_pairing_and_diagnostics (test_model.Verification.test_extra_initial_network_pairing_and_diagnostics) ... ok
+test_extra_invalid_configuration (test_model.Verification.test_extra_invalid_configuration) ... ok
+test_extra_manual_chain_capacity_and_profit (test_model.Verification.test_extra_manual_chain_capacity_and_profit) ... ok
+test_extra_manual_incentive_settlement (test_model.Verification.test_extra_manual_incentive_settlement) ... ok
+test_all_orders_and_invalid_orders (test_rule_orders.RuleOrderVerification.test_all_orders_and_invalid_orders) ... ok
+test_default_pause_preserved (test_rule_orders.RuleOrderVerification.test_default_pause_preserved) ... ok
+test_fixed_policies_and_campaign_ablation_unchanged (test_rule_orders.RuleOrderVerification.test_fixed_policies_and_campaign_ablation_unchanged) ... ok
+test_guards_never_reordered (test_rule_orders.RuleOrderVerification.test_guards_never_reordered) ... ok
+test_hand_calculated_overlapping_rules (test_rule_orders.RuleOrderVerification.test_hand_calculated_overlapping_rules) ... ok
+test_independent_audit_detects_changed_decision_and_no_global_mutation (test_rule_orders.RuleOrderVerification.test_independent_audit_detects_changed_decision_and_no_global_mutation) ... ok
+test_infeasible_rule_skips_to_next_eligible (test_rule_orders.RuleOrderVerification.test_infeasible_rule_skips_to_next_eligible) ... ok
+test_reference_complete_trajectories (test_rule_orders.RuleOrderVerification.test_reference_complete_trajectories) ... ok
+test_reference_selector_at_boundaries (test_rule_orders.RuleOrderVerification.test_reference_selector_at_boundaries) ... ok
+test_referral_continuation_preempts_incentives_when_earlier (test_rule_orders.RuleOrderVerification.test_referral_continuation_preempts_incentives_when_earlier) ... ok
+test_adaptive_parameters_do_not_change_fixed_policies (test_sensitivity.SensitivityVerification.test_adaptive_parameters_do_not_change_fixed_policies) ... ok
+test_design_count_and_domains (test_sensitivity.SensitivityVerification.test_design_count_and_domains) ... ok
+test_network_expected_degree_constant (test_sensitivity.SensitivityVerification.test_network_expected_degree_constant) ... ok
+test_reference_engine_unmodified (test_sensitivity.SensitivityVerification.test_reference_engine_unmodified) ... ok
+test_time_value_changes_only_accounting (test_sensitivity.SensitivityVerification.test_time_value_changes_only_accounting) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 4.358s
+
+OK

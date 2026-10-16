@@ -1,0 +1,14 @@
+{
+  "source_hashes_verified": 28,
+  "extracted_package_tests": "29 passed",
+  "notebook_python_syntax": "passed; Colab UI not exercised",
+  "single_run_reproduction": {
+    "scenario": "acquisition_threshold_low",
+    "seed": 2001,
+    "policy": "G",
+    "summary_fields_checked": 23,
+    "result": "matched archive"
+  },
+  "zip_crc": "all data parts, code, and figures passed",
+  "verification_scope": "internal reproducibility and record consistency; not empirical validation"
+}

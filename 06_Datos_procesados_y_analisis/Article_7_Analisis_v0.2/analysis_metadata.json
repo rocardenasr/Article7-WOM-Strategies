@@ -1,0 +1,10 @@
+{
+  "bootstrap_repetitions": 5000,
+  "bootstrap_seed": 700007,
+  "unit": "paired simulation repetition (all seven policies)",
+  "interval": "percentile 95%; Monte Carlo uncertainty",
+  "simultaneous_intervals": false,
+  "empirical_uncertainty": false,
+  "source": "outputs/main",
+  "runs": 700
+}

@@ -1,0 +1,47 @@
+{
+  "parts": [
+    {
+      "file": "Article_7_Orden_reglas_datos_v0.4_parte01.zip",
+      "bytes": 19735864,
+      "sha256": "f8ed90a4a5a76730c296c1d3bdf8d5d2a02ad81ed92d5b15ff3ed62800ce51d8",
+      "variants": [
+        "G_4567",
+        "G_4576",
+        "G_4657",
+        "G_4675",
+        "G_4756",
+        "G_4765",
+        "G_5467",
+        "G_5476",
+        "G_5647",
+        "G_5674",
+        "G_5746",
+        "G_5764"
+      ]
+    },
+    {
+      "file": "Article_7_Orden_reglas_datos_v0.4_parte02.zip",
+      "bytes": 17815010,
+      "sha256": "f34da9c598c8a0250dc9c2abc0a75f693585455144fe9b83c738fe616f7bcfc7",
+      "variants": [
+        "G_6457",
+        "G_6475",
+        "G_6547",
+        "G_6574",
+        "G_6745",
+        "G_6754",
+        "G_7456",
+        "G_7465",
+        "G_7546",
+        "G_7564",
+        "G_7645",
+        "G_7654"
+      ]
+    }
+  ],
+  "extract_all_parts_to_same_directory": true,
+  "root": "rule_orders_v0.4",
+  "executions": 2400,
+  "new_alternative_runs": 2300,
+  "reference_reproductions": 100
+}

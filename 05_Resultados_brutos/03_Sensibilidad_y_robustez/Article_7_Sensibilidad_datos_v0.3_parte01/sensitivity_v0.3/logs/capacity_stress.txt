@@ -1,0 +1,11 @@
+10/100 paired replications; 70 runs; 5.7s
+20/100 paired replications; 140 runs; 11.3s
+30/100 paired replications; 210 runs; 17.1s
+40/100 paired replications; 280 runs; 23.1s
+50/100 paired replications; 350 runs; 32.7s
+60/100 paired replications; 420 runs; 42.4s
+70/100 paired replications; 490 runs; 51.8s
+80/100 paired replications; 560 runs; 61.4s
+90/100 paired replications; 630 runs; 69.0s
+100/100 paired replications; 700 runs; 74.4s
+{"audit_passed": 700, "completed": 700, "seconds": 76.54732875399986}

@@ -1,0 +1,88 @@
+{
+  "parts": [
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte01.zip",
+      "bytes": 32817196,
+      "sha256": "451d1e64afbab0a792df01fc90c09f03b0320c0bfae9e4c4527030d23c6464fd",
+      "scenarios": [
+        "conversion_low",
+        "conversion_high",
+        "need_low"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte02.zip",
+      "bytes": 33820968,
+      "sha256": "9681e11cb09cad05b535084f5dcce607f7fd15a7a7f835bed909df8edfe22690",
+      "scenarios": [
+        "need_high",
+        "campaign_cost_low",
+        "campaign_cost_high"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte03.zip",
+      "bytes": 31963746,
+      "sha256": "ae737b22157d9bf95e9d413228a56e4d1d22ba234cb358e6af901b6814ec65c3",
+      "scenarios": [
+        "reward_zero",
+        "reward_low",
+        "reward_high"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte04.zip",
+      "bytes": 32799393,
+      "sha256": "6ad6cb206db08fc35e2e719f644136002f44f6a5b1b73524367ef83920b82e0a",
+      "scenarios": [
+        "budget_low",
+        "budget_high",
+        "capacity_stress"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte05.zip",
+      "bytes": 32724847,
+      "sha256": "96fa974668578ad17534a022464b4a3c95bc8411cef3eb1c3f44d005fcd073fc",
+      "scenarios": [
+        "capacity_low",
+        "capacity_high",
+        "segregation_high"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte06.zip",
+      "bytes": 33972568,
+      "sha256": "d6f34d11857ac9626f17435a8fec12c74b2fab20101608079480dea0460b9dc3",
+      "scenarios": [
+        "segregation_low",
+        "acquisition_threshold_low",
+        "acquisition_threshold_high"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte07.zip",
+      "bytes": 33508335,
+      "sha256": "15cfcb517cb743f118e52ce336b9cdbc8ec4eca4dbe1316f79ba6ac6a6d2f795",
+      "scenarios": [
+        "activity_threshold_low",
+        "activity_threshold_high",
+        "evidence_threshold_low"
+      ]
+    },
+    {
+      "file": "Article_7_Sensibilidad_datos_v0.3_parte08.zip",
+      "bytes": 35771158,
+      "sha256": "682710e8d3d657f87b3742e478cd4550d16d47ccd0779a7943eb46d1c9020a64",
+      "scenarios": [
+        "evidence_threshold_high",
+        "high_demand_conversion",
+        "high_demand_capacity_stress"
+      ]
+    }
+  ],
+  "extract_all_parts_to_same_directory": true,
+  "top_directory": "sensitivity_v0.3",
+  "new_runs": 16800,
+  "reference_runs_reused": 700
+}

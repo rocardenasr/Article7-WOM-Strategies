@@ -1,0 +1,15 @@
+{
+  "source_hashes_verified": 38,
+  "extracted_package_tests": "39 passed",
+  "notebook_syntax": "passed; Colab UI not exercised",
+  "archived_case_reproduced": {
+    "variant": "G_6457",
+    "seed": 2001,
+    "summary_fields": 23,
+    "matched": true
+  },
+  "paired_contrast_means_and_mcse_checked": 207,
+  "zip_crc": "code, figures and both data parts passed",
+  "audited_runs": 2400,
+  "audited_months": 144000
+}
